@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "GTVAPP",
+  "short_name": "GTVAPP",
+  "version": "com.gtvapp",
+  "description": "L’application documentaire des GTV",
+  "author": "ProximCréation",
+  "icons": [],
+  "start_url": "index.html"
+}
