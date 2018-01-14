@@ -1,7 +1,7 @@
 {
   "name": "com.gtvapp",
   "version": "0.1.0",
-  "displayName": "GTVapp",
+  "displayName": "GTVAPP",
   "cordova": {
     "platforms": [
       "android",
