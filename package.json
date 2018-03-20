@@ -1,7 +1,7 @@
 {
   "name": "com.gtvapp",
   "version": "0.2.0",
-  "displayName": "GTVAPP",
+  "displayName": "VETOAPP",
   "cordova": {
     "platforms": [
       "android",
