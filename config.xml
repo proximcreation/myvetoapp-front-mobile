@@ -12,7 +12,7 @@
     <preference name="android-minSdkVersion" value="14" />
     <preference name="AndroidPersistentFileLocation" value="Compatibility" />
     <config-file parent="/manifest/application" target="AndroidManifest.xml">
-      <meta-data android:icon="@mipmap/icon.png"/>
+      <meta-data android:name="icon" android:value="@mipmap/icon.png"/>
     </config-file>
     <platform name="android">
         <icon density="ldpi" src="www/res/icon/android/drawable-ldpi-icon.png" />
