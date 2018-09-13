@@ -16,15 +16,12 @@
       "cordova-plugin-network-information": {},
       "cordova-plugin-vibration": {},
       "cordova-plugin-statusbar": {},
-      "com.wmjalak.cordova.fileopener": {},
-      "cordova-plugin-file-opener2": {},
       "phonegap-plugin-push": {
         "FCM_VERSION": "11.6.2"
       }
     }
   },
   "dependencies": {
-    "com.wmjalak.cordova.fileopener": "~1.0.0",
     "cordova-android": "^6.4.0",
     "cordova-browser": "~5.0.3",
     "cordova-ios": "^4.5.4",
@@ -32,8 +29,6 @@
     "cordova-plugin-device": "~1.1.6",
     "cordova-plugin-dialogs": "~1.3.3",
     "cordova-plugin-file": "~4.3.3",
-    "cordova-plugin-file-opener": "^1.0.0",
-    "cordova-plugin-file-opener2": "^2.0.19",
     "cordova-plugin-inappbrowser": "~1.7.1",
     "cordova-plugin-network-information": "~1.3.3",
     "cordova-plugin-statusbar": "~2.4.1",
