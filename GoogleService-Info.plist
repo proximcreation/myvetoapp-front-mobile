@@ -7,9 +7,9 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>356156599617-cu5oh8gj7349jgcdt2fif4r6d391nftu.apps.googleusercontent.com</string>
+	<string>356156599617-fvsvupfks99ujd7949urddbiq7dtlmm9.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.356156599617-cu5oh8gj7349jgcdt2fif4r6d391nftu</string>
+	<string>com.googleusercontent.apps.356156599617-fvsvupfks99ujd7949urddbiq7dtlmm9</string>
 	<key>API_KEY</key>
 	<string>AIzaSyCBA7hCGkT-fJc5sav6ZOTgTw0VOz_Afq4</string>
 	<key>GCM_SENDER_ID</key>
@@ -17,7 +17,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.gtvapp</string>
+	<string>com.sngtv.gtvapp</string>
 	<key>PROJECT_ID</key>
 	<string>proximcreationpushsandbox</string>
 	<key>STORAGE_BUCKET</key>
@@ -27,13 +27,13 @@
 	<key>IS_ANALYTICS_ENABLED</key>
 	<false></false>
 	<key>IS_APPINVITE_ENABLED</key>
-	<false></false>
+	<true></true>
 	<key>IS_GCM_ENABLED</key>
 	<true></true>
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:356156599617:ios:08def1bfea2a5a12</string>
+	<string>1:356156599617:ios:68586852616e348d</string>
 	<key>DATABASE_URL</key>
 	<string>https://proximcreationpushsandbox.firebaseio.com</string>
 </dict>
